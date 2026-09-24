@@ -16,5 +16,5 @@ Terminal dashboard for your Claude Code, Codex CLI and Antigravity sessions: sta
 **[voxis-windows](https://github.com/hallygtree/voxis-windows)**  
 Local-first voice dictation and meeting transcription for Windows.
 
-**[credhub](https://github.com/hallygtree/credhub)**  
-Full-stack corporate credit system with PIX, RBAC and company management.
+**[credhub](https://github.com/hallygtree/credhub)** (study project)  
+Study project: full-stack corporate credit system with PIX (sandbox), RBAC and company management.
