@@ -2,7 +2,7 @@
 
 Full stack developer.  
 Computer Science student.  
-AI enthusiast: I build tools around LLMs and coding agents.  
+AI enthusiast building tools around LLMs and coding agents.  
 Moving into security: SOC and DevSecOps.
 
 #### Projects
